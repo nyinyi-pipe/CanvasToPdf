@@ -5,12 +5,12 @@
 npm install
 ```
 
-## <h3><b>Install Vue-Router</h3></b>
+## <h3>Install Vue-Router</h3>
 ```
 npm install vue-router
 ```
 
-## <h3><b>Install html2canvas jspdf</h3></b>
+## <h3>Install html2canvas jspdf</h3>
 ```
 npm install html2canvas jspdf
 ```
