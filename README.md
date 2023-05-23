@@ -5,6 +5,29 @@
 npm install
 ```
 
+## <h3><b>Install Vue-Router</h3></b>
+```
+npm install vue-router
+```
+
+## <h3><b>Install html2canvas jspdf</h3></b>
+```
+npm install html2canvas jspdf
+```
+
+## Create Components :
+```
+Create CanvasToPdf.vue
+Create HomeView.vue ( in src/views directory )
+
+```
+
+## Modify Code:
+```
+App.vue
+main.js
+```
+
 ### Compiles and hot-reloads for development
 ```
 npm run serve
